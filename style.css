@@ -1,0 +1,54 @@
+.button{
+  float:right;
+}
+img{
+  width : 40px ;
+}
+.elem{
+  clear:right;
+  display:flex;
+}
+.child{
+  text-align: center;
+  flex-basis: 300px;
+}
+.marg{
+  margin-top: 10px;
+}
+.content{
+  margin-left: 30%;
+  margin-right: 30%;
+  background-color: #F0FFF0;
+}
+.weather{
+  width:100%;
+  height:300px;
+  background-color:#90EE90;
+}
+.p_elem{
+  color:white;
+  padding-left: 10px;
+  padding-top: 3px
+}
+.p_temp{
+  margin-top: 5px;
+  margin-bottom: 0px;
+  text-align: center;
+  color:white;
+  font-size:30px;
+}
+
+.p_image{
+  margin-top: 40px;
+  margin-left: 45%;
+}
+.p_rain{
+  text-align: center;
+  color:white;
+}
+.p_wind{
+  margin-top: 50px;
+  color:white;
+  float:right;
+  margin-right: 50px;
+}
